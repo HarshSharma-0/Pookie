@@ -1,2 +1,2 @@
 # Pookie
-Stydy material collection 
+Study material collection 
